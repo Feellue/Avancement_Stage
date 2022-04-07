@@ -11,9 +11,9 @@ Jeudi et Vendredi : "e-learning" pour apprendre certaines bonnes pratiques de co
 
 ## Semaine 2
 
-Lundi à jeudi : Début de la formation à certaines technologies pour le front
+Lundi à jeudi : Formation à certaines technologies pour le front
 
-Vendredi : Début de la formation côté back-end
+Vendredi : Formation côté back-end
 
 ## Semaine 3
 
