@@ -19,7 +19,7 @@ Vendredi : Formation côté back-end
 
 Lundi à Vendredi : Continuation de la formation aux technologies côté back-end
 
-Vendredi : Réunion pour 
+Vendredi : Réunion pour une explication gloable du projet et son fonctionnement
 
 ## Semaine 4
 
