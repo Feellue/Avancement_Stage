@@ -7,6 +7,7 @@ Lundi : présentation et integration à l'entreprise
 Mardi et Mercredi : "e-learning" de l'entreprise pour apprendre les différentes règles de l'entreprise
 
 Jeudi et Vendredi : "e-learning" pour apprendre certaines bonnes pratiques de codages
+- Les e-learning sont des auto formations faites par l'entreprise, composé de vidéos ou de texte pour intégré les nouvelles personnes à l'entreprise.
 
 
 ## Semaine 2
@@ -27,8 +28,9 @@ Lundi : Réunion pour une explication en détail du travail à effectuer
 
 Mardi : Mise en place de l'environnement de travail (VM et installations lié au projet)
 
-Mercredi à Vendredi : Début du travail sur ma tâche, mise en place du front end, répartition en plusieurs composants
+Mercredi à Vendredi : Début du travail sur ma tâche, mise en place du front end, répartition en plusieurs composants.
+- Le projet ayant commencé il y a plusieurs années, j'ai pour l'instant passé beaucoup de temps à lire du code pour comprendre le fonctionnement du projet et les règles/bonnes pratiques de codage. J'ai donc surtout essayer de prendre en main le front-end du projet pour l'instant.
 
 ## Semaine 5
 
-Mardi : Suite du travail sur le front end du premier composant
+Mardi : Suite du travail sur le front end, début du travail sur le premier composant
