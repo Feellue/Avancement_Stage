@@ -1,5 +1,7 @@
 # Rapport_Stage
 
+Sujet : Le projet ayant commencé il y a plusieurs années, certaines parties ont été developpées en utilisant des éléments trop anciens qui ne sont plus supportés. Un de ces éléments est le plugin Silverlight, une alternative de Microsoft à Adobe Flash qui n'est supporté que par Internet Explorer. Ma première mission consiste donc a réintegré un élément qui avait été fait en Silverlight. L'application été initialement codé en .NET, mais est en train de basculer en Angular. Ainsi, je dois recréer l'élément qui était fait en Silverlight dans la nouvelle application Angular. Je devrai également m'occupé du back-end de cette partie en Java spring boot.
+
 ## Semaine 1
 
 Lundi : présentation et integration à l'entreprise
@@ -30,7 +32,6 @@ Mardi : Mise en place de l'environnement de travail (VM et installations lié au
 
 Mercredi à Vendredi : Début du travail sur ma tâche, mise en place du front end, répartition en plusieurs composants.
 - Le projet ayant commencé il y a plusieurs années, j'ai pour l'instant passé beaucoup de temps à lire du code pour comprendre le fonctionnement du projet et les règles/bonnes pratiques de codage. J'ai donc surtout essayer de prendre en main le front-end du projet pour l'instant.
-- Sujet : Le projet ayant commencé il y a plusieurs années, certaines parties ont été developpées en utilisant des éléments trop anciens qui ne sont plus supportés. Un de ces éléments est le plugin Silverlight, une alternative de Microsoft à Adobe Flash qui n'est supporté que par Internet Explorer. Ma première mission consiste donc a réintegré un élément qui avait été fait en Silverlight. L'application été initialement codé en .NET, mais est en train de basculer en Angular. Ainsi, je dois recréer l'élément qui était fait en Silverlight dans la nouvelle application Angular.
 
 ## Semaine 5
 
