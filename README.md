@@ -36,3 +36,5 @@ Mercredi à Vendredi : Début du travail sur ma tâche, mise en place du front e
 ## Semaine 5
 
 Mardi et Mercredi : Suite du travail sur le front end, début du travail sur le premier composant
+
+Mercredi : Affichage des premiers éléments en utilisant des données mocké pour simuler une vrai base de données
