@@ -44,4 +44,8 @@ Mardi et Mercredi : Suite du travail sur le front end, début du travail sur le 
 
 Mercredi : Affichage des premiers éléments en utilisant des données mockées pour simuler une vrai base de données
 
-Jeudi : Suite du travail sur le front-end du premier composant
+Jeudi et Vendredi : Suite du travail sur le front-end du premier composant
+
+## Semaine 6
+
+Lundi : Suite du travail sur le front-end, ajout d'images au composant
