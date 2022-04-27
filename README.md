@@ -49,3 +49,7 @@ Jeudi et Vendredi : Suite du travail sur le front-end du premier composant
 ## Semaine 6
 
 Lundi : Suite du travail sur le front-end, ajout d'images au composant
+
+Mardi : Suite du travail sur le front, changement dans la partie html et css pour un code plus propre
+
+Mercredi : Choix d'une nouvelle librairie pour gérer toutes les dates de l'application, car l'ancienne était trop grosse. Pour ce faire, j'ai comparé différentes librairies et pris la décision finalé avec une autre personne de l'équipe.
