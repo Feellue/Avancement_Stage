@@ -60,4 +60,10 @@ Vendredi : Démo et retrospection de fin de sprint avec l'équipe
 
 ## Semaine 7
 
-Lundi : Travail sur le front
+Toute la semaine : Travail sur le front, finalisation d'une première version du premier composant et merge request.
+
+## Semaine 8
+
+Lundi à Mercredi : Retour suite à la première merge request faite suite à la première version. Correction/amélioration du code suite aux commentaires reçu.
+
+Jeudi : Nouveaux retours sur une nouvelle merge request avec toutes les corrections de la précédente appliquée. Travail sur l'amélioration du code suite aux retours.
