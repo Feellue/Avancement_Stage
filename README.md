@@ -66,4 +66,4 @@ Toute la semaine : Travail sur le front, finalisation d'une première version du
 
 Lundi à Mercredi : Retour suite à la première merge request faite suite à la première version. Correction/amélioration du code suite aux commentaires reçu.
 
-Jeudi : Nouveaux retours sur une nouvelle merge request avec toutes les corrections de la précédente appliquée. Travail sur l'amélioration du code suite aux retours.
+Jeudi et Vendredi : Nouveaux retours sur une nouvelle merge request avec toutes les corrections de la précédente appliquée. Travail sur l'amélioration du code suite aux retours.
