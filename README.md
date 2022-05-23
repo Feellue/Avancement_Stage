@@ -70,4 +70,6 @@ Jeudi et Vendredi : Nouveaux retours sur une nouvelle merge request avec toutes 
 
 ## Semaine 9
 
-Lundi et Mardi : Nouvelle merge request et nouveaux retours. Travail sur un composant existant dans un dossier "shared", le composant permet à l'utilisateur de rentrer un date via une textbox ou un calendrier
+Lundi et Mardi : Nouvelle merge request et nouveaux retours. Travail d'amlioration sur un composant existant dans un dossier "shared", dossier qui permet aux composants qu'il contient d'être utiliser par n'importe quel autre composant de l'application. Le composant permet à l'utilisateur de rentrer un date via une textbox ou un calendrier. Modification du composant pour utiliser la nouvelle librairie choisi, et mettre à jour le code pour correspondre au projet.
+
+Mercredi à Vendredi : Amélioration du code du composant suite aux retours sur la merge request.
