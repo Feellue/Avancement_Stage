@@ -73,3 +73,9 @@ Jeudi et Vendredi : Nouveaux retours sur une nouvelle merge request avec toutes 
 Lundi et Mardi : Nouvelle merge request et nouveaux retours. Travail d'amlioration sur un composant existant dans un dossier "shared", dossier qui permet aux composants qu'il contient d'être utiliser par n'importe quel autre composant de l'application. Le composant permet à l'utilisateur de rentrer un date via une textbox ou un calendrier. Modification du composant pour utiliser la nouvelle librairie choisi, et mettre à jour le code pour correspondre au projet.
 
 Mercredi à Vendredi : Amélioration du code du composant suite aux retours sur la merge request.
+
+## Semaine 10
+
+Lundi : Suite des amélioration suite de la merge request
+
+Mardi et Mercredi : Travail sur les composants partagés permettant de créer des datepicker et timepicker. Changement pour qu'ils utilisent tous les deux la nouvelle librairie de date (le datepicker avait déjà été changer). De plus, amélioration pour corriger certains bug sur ces composants et qu'il ait un comportement plus adéquat à ce qui est attendu.
