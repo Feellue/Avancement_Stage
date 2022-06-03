@@ -78,4 +78,13 @@ Mercredi à Vendredi : Amélioration du code du composant suite aux retours sur 
 
 Lundi : Suite des amélioration suite de la merge request
 
-Mardi et Mercredi : Travail sur les composants partagés permettant de créer des datepicker et timepicker. Changement pour qu'ils utilisent tous les deux la nouvelle librairie de date (le datepicker avait déjà été changer). De plus, amélioration pour corriger certains bug sur ces composants et qu'il ait un comportement plus adéquat à ce qui est attendu.
+Mardi, Mercredi et Vendredi : Travail sur les composants partagés permettant de créer des datepicker et timepicker. Changement pour qu'ils utilisent tous les deux la nouvelle librairie de date (le datepicker avait déjà été changer). De plus, amélioration pour corriger certains bug sur ces composants et qu'il ait un comportement plus adéquat à ce qui est attendu.
+
+## Semaine 11
+
+Lundi : Malade donc pas travailler ce jour
+
+Mardi à Jeudi : Suite du travail sur le front, notamment sur les composants datepicker et timepicker pour corriger les bugs. Inclusion du composant timepicker dans datepicker pour que ce soit lui qui gère toute la partie date directement.
+
+Vendredi : Travail sur des formations pour passer sur la partie backend. Le frontend n'est pas forcement fini, mais mon supperviseur n'est pas la pour me faire des retours dessus, je commence donc à m'avancer sur la partie back.
+Présentation à mon tuteur ainsi qu'une autre personne de l'avancée du stage pour voir en j'en suis.
