@@ -82,7 +82,7 @@ Mardi, Mercredi et Vendredi : Travail sur les composants partagés permettant de
 
 ## Semaine 11
 
-Lundi : Malade donc pas travailler ce jour
+Lundi : Malade donc pas de travail ce jour
 
 Mardi à Jeudi : Suite du travail sur le front, notamment sur les composants datepicker et timepicker pour corriger les bugs. Inclusion du composant timepicker dans datepicker pour que ce soit lui qui gère toute la partie date directement.
 
