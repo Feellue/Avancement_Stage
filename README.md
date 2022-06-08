@@ -88,3 +88,9 @@ Mardi à Jeudi : Suite du travail sur le front, notamment sur les composants dat
 
 Vendredi : Travail sur des formations pour passer sur la partie backend. Le frontend n'est pas forcement fini, mais mon supperviseur n'est pas la pour me faire des retours dessus, je commence donc à m'avancer sur la partie back.
 Présentation à mon tuteur ainsi qu'une autre personne de l'avancée du stage pour voir en j'en suis.
+
+## Semaine 12
+
+Lundi : Suite du travail sur la partie backend, et discution avec mon superviseur pour voir différents points sur la partie backend.
+
+Mardi : Petit retour rapide sur le frontend le matin suite aux retours sur ma dernière merge request. Rapidement fini la partie frontend, mais suite à plusieurs problèmes avec ma machine virtuelle, reprise du travail sur le backend plus tard dans l'après-midi.
