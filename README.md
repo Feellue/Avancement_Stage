@@ -97,4 +97,10 @@ Mercredi : Petit retour rapide sur le frontend le matin suite aux retours sur ma
 
 Jeudi et Vendredi : suite de la formation sur le backend.
 
+## Semaine 13
+
+Lundi : Fin de la formation backend.
+
+Mardi et Mercredi : Travail sur le backend pour le projet : travail de la création des routes pour l'api. Reflexion sur la manniere dont seront transmisent les données à la partie front et création des routes en accordance avec les décisions établies. 
+
 
