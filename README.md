@@ -52,7 +52,7 @@ Lundi : Suite du travail sur le front-end, ajout d'images au composant
 
 Mardi : Suite du travail sur le front, changement dans la partie html et css pour un code plus propre
 
-Mercredi : Choix d'une nouvelle librairie pour gérer toutes les dates de l'application, car l'ancienne était trop grosse. Pour ce faire, j'ai comparé différentes librairies et pris la décision finalé avec une autre personne de l'équipe.
+Mercredi : Choix d'une nouvelle librairie pour gérer toutes les dates de l'application, car l'ancienne était trop grosse. Pour ce faire, j'ai comparé différentes librairies et pris la décision finale avec une autre personne de l'équipe.
 
 Jeudi : Suite du travail sur le front et intégration de la nouvelle librairie pour les dates.
 
@@ -101,6 +101,9 @@ Jeudi et Vendredi : suite de la formation sur le backend.
 
 Lundi : Fin de la formation backend.
 
-Mardi à Jeudi : Travail sur le backend pour le projet : travail de la création des routes pour l'api. Reflexion sur la manniere dont seront transmisent les données à la partie front et création des routes en accordance avec les décisions établies. 
+Mardi à Vendredi : Travail sur le backend pour le projet : travail de la création des routes pour l'api. Reflexion sur la manniere dont seront transmisent les données à la partie front et création des routes en accordance avec les décisions établies (notamment les données à transmettre en entrée et en sortie de chaque route).
 
+## Semaine 14
 
+Lundi à Vendredi : Travail d'étude sur les différents indicateurs de la base de données. L'objectif est de voir les différentes bases ainsi que les champs qui la composent qui sont utiles. Reprise des champs important pour construire les entités dans le backend.
+Début de la création des différentes fichiers du backend (dans les dossiers entity, repository, service, etc.)
