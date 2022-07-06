@@ -107,3 +107,13 @@ Mardi à Vendredi : Travail sur le backend pour le projet : travail de la créat
 
 Lundi à Vendredi : Travail d'étude sur les différents indicateurs de la base de données. L'objectif est de voir les différentes bases ainsi que les champs qui la composent qui sont utiles. Reprise des champs important pour construire les entités dans le backend.
 Début de la création des différentes fichiers du backend (dans les dossiers entity, repository, service, etc.)
+
+## Semaine 15
+
+Lundi à Vendredi : Travail sur le backend, réalisation du controller, repository, service et des fichiers complémentaires nécessaires (models, mappers, etc.)
+
+## Semaine 16
+
+Lundi et Mardi : Problème de VPN, hors il me faut le VPN pour accéder à ma VM et donc mon code. Je n'ai donc pas pu avancer sur mes tâches ces deux jours
+
+Mercredi : Travail de résolution des bugs au niveau du backend, notamment du repository
