@@ -116,4 +116,14 @@ Lundi à Vendredi : Travail sur le backend, réalisation du controller, reposito
 
 Lundi et Mardi : Problème de VPN, hors il me faut le VPN pour accéder à ma VM et donc mon code. Je n'ai donc pas pu avancer sur mes tâches ces deux jours
 
-Mercredi : Travail de résolution des bugs au niveau du backend, notamment du repository
+Mercredi et Jeudi : Travail de résolution des bugs au niveau du backend, notamment du repository
+
+Vendredi : Fin de correction des bugs et debut de mise en relation du front et du back
+
+## Semaine 17
+
+Semaine de vacances
+
+## Semaine 18
+
+Lundi : suite de la mise en relation du front et du back, premiers requêtes fonctionnent
