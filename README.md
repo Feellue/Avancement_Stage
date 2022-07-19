@@ -126,4 +126,4 @@ Semaine de vacances
 
 ## Semaine 18
 
-Lundi : suite de la mise en relation du front et du back, premiers requêtes fonctionnent
+Lundi et Mardi : suite de la mise en relation du front et du back. Au final toutes les requêtes fonctionnent, mais il y a des problèmes de performances qui causent des lenteurs dans l'application. 
