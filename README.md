@@ -126,4 +126,21 @@ Semaine de vacances
 
 ## Semaine 18
 
-Lundi et Mardi : suite de la mise en relation du front et du back. Au final toutes les requêtes fonctionnent, mais il y a des problèmes de performances qui causent des lenteurs dans l'application. 
+Lundi et Mardi : suite de la mise en relation du front et du back. Au final toutes les requêtes fonctionnent, mais il y a des problèmes de performances qui causent des lenteurs dans l'application.
+
+Mercredi : Réglage des problèmes liés aux lenteur. Début de création d'un tableau pour afficher les données reçu.
+
+Jeudi et Vendredi : Suite du travail sur le tableau.
+
+
+## Semaine 19
+
+Lundi et Mardi : Suite du travail sur le tableau, puis travail sur la pagination.
+
+Mercredi : Travail sur la pagination du tableau et différents éléments d'affichage pour être plus ergonomique et en accord avec ce qui est voulu. 
+
+Jeudi et Vendredi : Mon responssable part en vacance, il a donc fait une revue sur mes merge request. Nous avons donc fait une réunion pour qu'il m'explique les différents retour sur mon code, ainsi que pour s'accordé sur la suite, que je sache bien quoi faire le temps qu'il est abscent. J'ai ensuite passé le reste des deux jours à traité ses retours sur mes merge request.
+
+## Semaine 20
+
+Lundi et Mardi : Travail sur le back pour améliorer le code, et sur la pagination côté backend pour le tableau.
