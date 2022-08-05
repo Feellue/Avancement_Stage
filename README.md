@@ -144,3 +144,7 @@ Jeudi et Vendredi : Mon responssable part en vacance, il a donc fait une revue s
 ## Semaine 20
 
 Lundi et Mardi : Travail sur le back pour améliorer le code, et sur la pagination côté backend pour le tableau.
+
+Mercredi : Réglage des derniers problèmes d'affichage du tableau.
+
+Jeudi et Vendredi: Travail de refonte du filtre pour appliquer une nouvelle organisation du projet. Modification des éléments à selectionner et afficher en front, modification des requêtes back.  
