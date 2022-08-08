@@ -139,7 +139,7 @@ Lundi et Mardi : Suite du travail sur le tableau, puis travail sur la pagination
 
 Mercredi : Travail sur la pagination du tableau et différents éléments d'affichage pour être plus ergonomique et en accord avec ce qui est voulu. 
 
-Jeudi et Vendredi : Mon responssable part en vacance, il a donc fait une revue sur mes merge request. Nous avons donc fait une réunion pour qu'il m'explique les différents retour sur mon code, ainsi que pour s'accordé sur la suite, que je sache bien quoi faire le temps qu'il est abscent. J'ai ensuite passé le reste des deux jours à traité ses retours sur mes merge request.
+Jeudi et Vendredi : Mon responsable part en vacance, il a donc fait une revue sur mes merge request. Nous avons donc fait une réunion pour qu'il m'explique les différents retour sur mon code, ainsi que pour s'accordé sur la suite, que je sache bien quoi faire le temps qu'il est abscent. J'ai ensuite passé le reste des deux jours à traité ses retours sur mes merge request.
 
 ## Semaine 20
 
@@ -148,3 +148,7 @@ Lundi et Mardi : Travail sur le back pour améliorer le code, et sur la paginati
 Mercredi : Réglage des derniers problèmes d'affichage du tableau.
 
 Jeudi et Vendredi: Travail de refonte du filtre pour appliquer une nouvelle organisation du projet. Modification des éléments à selectionner et afficher en front, modification des requêtes back.  
+
+## Semaine 21
+
+Semaine de travail de rédaction de mon rapport de stage.
