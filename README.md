@@ -91,7 +91,7 @@ Présentation à mon tuteur ainsi qu'une autre personne de l'avancée du stage p
 
 ## Semaine 12
 
-Mardi : Suite du travail sur la partie backend, et discution avec mon superviseur pour voir différents points sur la partie backend.
+Mardi : Suite du travail sur la partie backend, et discussion avec mon superviseur pour voir différents points sur la partie backend.
 
 Mercredi : Petit retour rapide sur le frontend le matin suite aux retours sur ma dernière merge request. Rapidement fini la partie frontend, reprise du travail sur le backend dans l'après-midi.
 
