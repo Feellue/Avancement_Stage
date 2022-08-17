@@ -151,7 +151,7 @@ Jeudi et Vendredi: Travail de refonte du filtre pour appliquer une nouvelle orga
 
 ## Semaine 21
 
-Semaine initialement prévu à la rédaction de mon rapport de stage. Cependant j'ai eu le covid, donc semaine de congéd maladie.
+Semaine initialement prévu à la rédaction de mon rapport de stage. Cependant j'ai eu le covid, donc semaine de congés maladie.
 
 ## Semaine 22
 
